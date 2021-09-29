@@ -1,0 +1,32 @@
+
+html {
+	background: #333;
+}
+
+main {
+	background: #778;
+	width: 80%;
+	margin-left: 10%;
+	padding: 2%;
+}
+
+header {
+	color: #B99;
+}
+
+img {
+	margin: 1%;
+	margin-left: 2.5%;
+	border: 2px solid black;
+	padding: 1px;
+}
+
+h2 {
+	margin-left: 1%;
+	color: #734;
+}
+
+h3 {
+	margin-left: 2%;
+	color: #622;
+}
