@@ -1,17 +1,17 @@
 
 html {
-	background: #333;
+	background: #555;
 }
 
 main {
-	background: #778;
+	background: #99A;
 	width: 80%;
 	margin-left: 10%;
 	padding: 2%;
 }
 
 header {
-	color: #B99;
+	color: #DBB;
 }
 
 img {
@@ -23,10 +23,10 @@ img {
 
 h2 {
 	margin-left: 1%;
-	color: #734;
+	color: #956;
 }
 
 h3 {
 	margin-left: 2%;
-	color: #622;
+	color: #844;
 }
