@@ -23,10 +23,15 @@ img {
 
 h2 {
 	margin-left: 1%;
-	color: #754;
+	color: #644;
 }
 
 h3 {
 	margin-left: 2%;
-	color: #DDD;
+	color: #843;
+}
+
+h4 {
+	margin-left: 3%;
+	color: #833;
 }
