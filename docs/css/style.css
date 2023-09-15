@@ -1,37 +1,54 @@
 
 html {
-	background: #444;
+	background: #888;
+	margin-left: 10%;
 }
 
 main {
-	background: #889;
-	width: 76%;
-	margin-left: 10%;
 	padding: 2%;
+	background: #aaa;
+	width: 76%;
 }
 
 header {
-	color: #FDD;
+	padding: 2%;
+	background: #888;
+	color: #111;
+}
+
+footer {
+	padding: 2%;
+	color: #111;
+}
+
+td {
+	border: 1px solid black;
+	width: 150px;
 }
 
 img {
-	margin: 1%;
-	margin-left: 2.5%;
+	margin: 1.25%;
 	border: 2px solid black;
 	padding: 1px;
+	height: 150px;
+	width: auto;
 }
 
 h2 {
 	margin-left: 1%;
-	color: #644;
+	color: #000;
 }
 
 h3 {
 	margin-left: 2%;
-	color: #843;
+	color: #100;
 }
 
 h4 {
 	margin-left: 3%;
-	color: #833;
+	color: #200;
+}
+
+.subtitle {
+	margin-left: 3%;
 }
