@@ -1,24 +1,65 @@
 
+
 html {
-	background: #888;
-	margin-left: 10%;
+	padding: 1% 5%;
+	margin: 1%;
+}
+
+body {
+	background: #245;
+}
+
+main {
+	font-size: 1.1em;
+}
+
+div {
+	margin: auto;
+}
+
+div.content {
+	background: silver;
+	color: black;
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	padding: 15px;
+}
+
+div.left-bar {
+	color: #212;
+	width: 13%;
+	color: #EDD;
+	padding-top: 9%;
+	padding-left: 1%;
+	padding-right: 1%;
+}
+div.top-bar {
+	color: #EDD;
+}
+div.author {
+	font-size: 1em;
+	color: white;
+}
+a {
+	color: blue;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
 }
 
 main {
 	padding: 2%;
-	background: #aaa;
-	width: 76%;
+	background: silver;
 }
 
 header {
-	padding: 2%;
-	background: #888;
-	color: #111;
+	background: #245;
+	color: #EDD;
 }
 
 footer {
-	padding: 2%;
-	color: #111;
+	color: #EDD;
 }
 
 td {
