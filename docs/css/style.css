@@ -64,14 +64,14 @@ footer {
 
 td {
 	border: 1px solid black;
-	width: 150px;
+	width: 300px;
 }
 
 img {
 	margin: 1.25%;
 	border: 2px solid black;
 	padding: 1px;
-	height: 150px;
+	height: 250px;
 	width: auto;
 }
 
